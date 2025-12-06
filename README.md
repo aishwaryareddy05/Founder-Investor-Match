@@ -13,7 +13,7 @@ An intelligent multi-agent system that matches startup founders with the most su
 
 ```mermaid
 graph TB
-    UI[User Input (Startup Idea)]
+    UI[User Input - Startup Idea]
     QB[Query Builder Agent]
     EMB[Google GenAI Embeddings]
     VS[Chroma Vector Store]
